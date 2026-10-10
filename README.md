@@ -11,17 +11,6 @@ Graduate Software Engineer (RMIT University). I build web applications with **Ja
 
 [Portfolio](https://quocan.vercel.app) · [LinkedIn](https://linkedin.com/in/nguyen-quoc-an-tran) · [Email](mailto:trannguyenquocan1410@gmail.com)
 
-## Now
-
-Software Engineer Intern at **National Australia Bank** (StarCamp, Batch 22 · June 2026 – September 2026), on ATM banking software with the Heim Hall team.
-
-- **Unit tests** with **Jest**, meeting **90–95% code coverage** on the modules I owned
-- **Automated accessibility tests** with **jest-axe** in the Jest suite, enforcing **zero violations**
-- **WCAG** audits and **accessibility** fixes
-- **React/JavaScript** refactored into **reusable components**
-- **Code reviews** and **Agile** across frontend, **BFF**, and backend
-- **GitHub Copilot** and **Cursor** for drafting tests and debugging, with every suggestion reviewed and validated
-
 ## Projects
 
 **Teaching Team Platform** · Full-Stack Lead · RMIT University · March 2025 – June 2025
