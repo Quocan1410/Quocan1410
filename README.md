@@ -7,7 +7,7 @@
 
 # Trần Nguyễn Quốc An
 
-Graduate Software Engineer (RMIT University). I build web applications with **JavaScript**, **TypeScript**, and **React**, and I use **GitHub Copilot** and **Cursor** as a pair programmer, then review and validate the output.
+Software Engineer.
 
 [Portfolio](https://quocan.vercel.app) · [LinkedIn](https://linkedin.com/in/nguyen-quoc-an-tran) · [Email](mailto:trannguyenquocan1410@gmail.com)
 
