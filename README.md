@@ -33,9 +33,10 @@ Graduate Software Engineer (RMIT University). I build web applications with **Ja
 
 Education app where candidates apply for tutor and lab-assistant roles and lecturers review, rank, and select them. A separate admin app manages users, courses, announcements, and hiring reports on the same database.
 
-- [Live app](https://teach-team-app.vercel.app)
+- [User Live app](https://teach-team-app.vercel.app)
 - [User app](https://github.com/Quocan1410/TeachTeamApp)
-- [Admin](https://github.com/Quocan1410/TeachTeamApp__Admin) — not deployed yet
+- [Admin Live app](https://teach-team-app-admin.vercel.app)
+- [Admin](https://github.com/Quocan1410/TeachTeamApp__Admin) 
 
 **Tech:** TypeScript · React · GraphQL · SQL · WebSocket · Jest · React Testing Library
 
